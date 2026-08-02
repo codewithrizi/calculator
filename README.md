@@ -1,8 +1,8 @@
-# ✨ Liquid Glass Calculator
+# ✨ Liquid Glass Theme Calculator
+
+![Preview](https://raw.githubusercontent.com/codewithrizi/calculator/main/preview.png)
 
 A modern, beautiful calculator with a **liquid glass** UI effect, smooth animations, and multiple color themes.
-
-![Preview](https://via.placeholder.com/800x500?text=Liquid+Glass+Calculator)
 
 ## 🔗 Live Demo
 
